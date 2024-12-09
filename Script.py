@@ -245,8 +245,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 <b> Size ⚙️: {file_size}</b>
-<blockquote>ꕮ @drama_loverx ꕮ</blockquote>
-<blockquote>⎈ @Real_Pirates 🏴‍☠</blockquote>"""
+<blockquote>ꕮ @drama_loverx ꕮ</blockquote>"""
 
 IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
