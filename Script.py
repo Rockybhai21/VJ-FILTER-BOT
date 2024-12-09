@@ -244,7 +244,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}</b>
+<blockquote>⎈ @Real_Pirates 🏴‍☠</blockquote>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -263,7 +264,7 @@ IMDb Data:
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-Requested by : {message.from_user.mention}</b>"""
+Requested by : {message.from_user}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
