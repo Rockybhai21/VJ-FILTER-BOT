@@ -242,12 +242,16 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """ Tɪᴛʟᴇ : 
+<blockquote>{file_name} <a href="https://t.me/Real_Pirates">⎈</a><blockquote>
+<b>Size 🗃️: {file_size}</b>"""
 
-<b> Size ⚙️: {file_size}</b>
-<blockquote>ꕮ @drama_loverx ꕮ</blockquote>"""
+𝗝𝗼𝗶𝗻 ⭛
+"""<blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>""" 
 
-IMDB_TEMPLATE_TXT = """
+
+
+    IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
 IMDb Data:
