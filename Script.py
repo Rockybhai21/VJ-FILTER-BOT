@@ -238,7 +238,7 @@ Nᴀᴍᴇ - {}"""
 <blockquote>{file_name}<a href="https://t.me/Real_Pirates">⎈</a><blockquote>
 <b>Size 🗃️: {file_size}</b>"""
 
-𝗝𝗼𝗶𝗻 🏴‍☠️
+𝗝𝗼𝗶𝗻
 """<blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>""" 
 
 
