@@ -236,12 +236,10 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """ Tɪᴛʟᴇ : 
 <blockquote>{file_name}<a href="https://t.me/Real_Pirates">⎈</a><blockquote>
-<b>Size 🗃️: {file_size}</b>"""
+<b>Size 🗃️: {file_size}</b>
 
 𝗝𝗼𝗶𝗻
-"""<blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>""" 
-
-
+<blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
