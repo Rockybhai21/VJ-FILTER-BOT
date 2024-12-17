@@ -234,7 +234,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """ Tɪᴛʟᴇ : 
+    CAPTION = """ Tɪᴛʟᴇ : ⟮ ⎈ @Real_Pirates ⟯ ►
 <blockquote>{file_name}<a href="https://t.me/Real_Pirates">⎈</a><blockquote>
 <b>Size 🗃️: {file_size}</b>
 
