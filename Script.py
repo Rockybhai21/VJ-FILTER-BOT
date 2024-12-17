@@ -240,7 +240,8 @@ Nᴀᴍᴇ - {}"""
 ➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {quality}
 ➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 
-𝗝𝗼𝗶𝗻  ⭛
+
+𝗝𝗢𝗜𝗡 ➥「 <a href='https://t.me/drama_loverx'>ꕥ 彡 𝐃𝐫𝐚𝐦𝐚 𝐋𝐨𝐯𝐞𝐫𝐱 彡 ꕥ</a> 」
 <b><blockquote>⎈ @Real_Pirates ⚝</blockquote><b>"""
 
     IMDB_TEMPLATE_TXT = """
