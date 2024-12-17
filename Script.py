@@ -237,6 +237,8 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """ Tɪᴛʟᴇ : ⟮ ⎈ @Real_Pirates ⟯ ►
 <blockquote>{file_name}<a href="https://t.me/Real_Pirates">⎈</a><blockquote>
 <b>Size 🗃️: {file_size}</b>
+➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {quality}
+➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 
 𝗝𝗼𝗶𝗻  ⭛
 <b><blockquote>⎈ @Real_Pirates ⚝</blockquote><b>"""
