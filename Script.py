@@ -242,10 +242,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """ Tɪᴛʟᴇ : 
+    CAPTION = """ Tɪᴛʟᴇ : ⟮ ⎈ @Real_Pirates ⟯ ►
 <blockquote>{file_name} <a href="https://t.me/Real_Pirates">⎈</a><blockquote>
 <b>Size 🗃️: {file_size}</b>
-
+➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {quality}
+➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 𝗝𝗼𝗶𝗻  ⭛
 <blockquote><b>ꕮ @drama_loverx ꕮ<b></blockquote>
 <blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>""" 
