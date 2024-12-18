@@ -246,11 +246,8 @@ Nᴀᴍᴇ - {}"""
 <blockquote>{file_name} <a href="https://t.me/Real_Pirates">⎈</a><blockquote>
 
 <b>Size 🗃️: {file_size}</b>
-➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {file_quality}
-➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 
-𝗝𝗢𝗜𝗡 ➥「 <a href='https://t.me/drama_loverx'>ꕥ 彡 𝐃𝐫𝐚𝐦𝐚 𝐋𝐨𝐯𝐞𝐫𝐱 彡 ꕥ</a> 」
-𝗝𝗼𝗶𝗻  ⭛
+𝗝𝗢𝗜𝗡 ⭛
 <blockquote><b>ꕮ @drama_loverx ꕮ<b></blockquote>
 <blockquote><b>⎈ @Real_Pirates ⚝<b></blockquote>""" 
 
