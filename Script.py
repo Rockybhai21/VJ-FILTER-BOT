@@ -236,12 +236,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """ Tɪᴛʟᴇ : ⟮ ⎈ @Real_Pirates ⟯ ►
 <blockquote>{file_name}<a href="https://t.me/Real_Pirates">⎈</a><blockquote>
-<b>Size 🗃️: {file_size}</b>
-➥ 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 :- {quality}
-➥ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞:-  {file_size}
 
+<b>Size 📥: {file_size}</b>
 
-𝗝𝗢𝗜𝗡 ➥「 <a href='https://t.me/drama_loverx'>ꕥ 彡 𝐃𝐫𝐚𝐦𝐚 𝐋𝐨𝐯𝐞𝐫𝐱 彡 ꕥ</a> 」
 <b><blockquote>⎈ @Real_Pirates ⚝</blockquote><b>"""
 
     IMDB_TEMPLATE_TXT = """
